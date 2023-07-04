@@ -1,0 +1,15 @@
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\obj\Debug\net7.0\04.1_pomoFocus.csproj.AssemblyReference.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\obj\Debug\net7.0\04.1_pomoFocus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\obj\Debug\net7.0\04.1_pomoFocus.AssemblyInfoInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\obj\Debug\net7.0\04.1_pomoFocus.AssemblyInfo.cs
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\obj\Debug\net7.0\04.1_pomoFocus.csproj.CoreCompileInputs.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\bin\Debug\net7.0\04.1_pomoFocus.exe
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\bin\Debug\net7.0\04.1_pomoFocus.deps.json
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\bin\Debug\net7.0\04.1_pomoFocus.runtimeconfig.json
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\bin\Debug\net7.0\04.1_pomoFocus.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\bin\Debug\net7.0\04.1_pomoFocus.pdb
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\obj\Debug\net7.0\04.1_pomoFocus.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\obj\Debug\net7.0\refint\04.1_pomoFocus.dll
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\obj\Debug\net7.0\04.1_pomoFocus.pdb
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\obj\Debug\net7.0\04.1_pomoFocus.genruntimeconfig.cache
+C:\Users\henrr\OneDrive\Documentos\www\csharpBalta\fundamentos\04.1_pomoFocus\obj\Debug\net7.0\ref\04.1_pomoFocus.dll
